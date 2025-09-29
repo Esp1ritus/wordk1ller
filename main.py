@@ -3,7 +3,7 @@
 from tkinter import *
 
 window = Tk()
-window.geometry("300x300")
+window.geometry("500x500")
 window.title("wordk1ller")
 
 text = Text(window)
